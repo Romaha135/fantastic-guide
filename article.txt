@@ -1,0 +1,17 @@
+Here is a sample text for the `article.txt` file:  
+
+---
+
+**Title: The Importance of Open Source Contribution**  
+
+Open source software plays a crucial role in modern technology, enabling developers worldwide to collaborate, innovate, and improve code collectively. By contributing to open source projects, developers can enhance their skills, gain real-world experience, and help create better software for everyone.  
+
+One of the best ways to start contributing is by forking a repository, making changes, and submitting a pull request. This process allows developers to share their improvements while maintaining the integrity of the original project.  
+
+Collaboration in open source communities fosters knowledge exchange and problem-solving. It encourages best practices, teamwork, and professional growth. Whether fixing a small bug, improving documentation, or adding a new feature, every contribution matters.  
+
+Are you ready to make your first open source contribution? Start today and become part of a global community that drives innovation! 🚀  
+
+---
+
+Let me know if you need modifications! 😊
